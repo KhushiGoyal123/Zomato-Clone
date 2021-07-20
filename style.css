@@ -74,7 +74,9 @@
   
   .hero__text {
     font-size: 30px;
-    margin: 20px 0;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    justify-content: center;
   }
   
   .explore__menu__text {
@@ -223,13 +225,13 @@
       width: 100%;
     }
     .hero__text {
-      font-size: 50px;
+      font-size: 35px;
     }
     .explore__menu__lists {
       gap: 40px;
     }
     .explore__menu__text {
-      font-size: 50px;
+      font-size: 45px;
     }
   }
   
